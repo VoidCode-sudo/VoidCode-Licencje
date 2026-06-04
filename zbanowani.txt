@@ -12,3 +12,4 @@ grubas832
 HypnosBurgir
 PatrykFajter
 HypnosParuwa
+ChitamTypaILogam
